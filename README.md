@@ -3,7 +3,7 @@
 <ul style="list-style-type:circle">
   <li>Made for the <i>IT255 Web Services I</i> course</li>
   <li>This is the eighth assignment of the course</li>
-  <li>A simple MySQL testing database</li>
+  <li>Has a simple MySQL testing database</li>
   <li>The <b>scripts</b> (not including the JavaScript file) folder must be placed in the xampp > htdocs folder</li>
 </ul>
 <h3>Project snapshots:</h3>
