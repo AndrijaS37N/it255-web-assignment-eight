@@ -1,0 +1,34 @@
+
+body {
+    overflow-x: hidden;
+}
+
+html {
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+#jumb_register {
+    background: url('s2.jpg') no-repeat;
+    border-style: groove;
+    background-size: cover;
+    width: 100%;
+    min-height: 532px;
+    position: relative;
+    margin-bottom: 100px;
+}
+
+#reg_col7 {
+    padding: 0;
+    margin-left: 20px;
+}
+
+#span_help {
+    font-size: 14px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: lighter;
+}
+
+#navbar {
+    margin-bottom: 0;
+}

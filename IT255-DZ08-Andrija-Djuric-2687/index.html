@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Home</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="styles/style_1.css"/>
+    <script src="scripts/script_1.js"></script>
+    <script>
+        $(function(){
+            $("#navbar").load("navbar.html");
+            $("#footer").load("footer.html");
+        });
+    </script>
+</head>
+<div id="navbar"></div>
+<body>
+<div class="container">
+    <h3 id="cloud">From cloud to cloud<img border="0" id="aereo_image" src="styles/s0.png" width="30" height="30">
+    </h3>
+    <p>Striving to be bolder, faster, secure and efficient</p>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-md-8">
+            <div id="jumb_index" class="jumbotron text-center">
+                <h2 id="jumb_index_h2"> Design and innovate </h2>
+                <p id="jumb_index_p">new engineering feats of wonder</p>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <form class="form-signin" action="scripts/login.php" method="post">
+                <h3 class="form-signin-heading">Please sign in</h3>
+                <label for="inputEmail" id="email_label" class="sr-only">Email address</label>
+                <input type="email" id="inputEmail" name="email" class="form-control" placeholder="Email address"
+                       required autofocus>
+                <label for="inputPassword" id="password_label" class="sr-only">Password</label>
+                <input type="password" id="inputPassword" name="password" class="form-control" placeholder="Password"
+                       required>
+                <div class="checkbox">
+                    <label>
+                        <input type="checkbox" value="remember-me"> Remember me
+                    </label>
+                </div>
+                <button class="btn btn-lg btn-primary btn-block" id="signIn_button" name="submit" type="submit">Sign
+                    in
+                </button>
+            </form>
+            <p> Don't have an account? Make one <a href="register.html" id="register_href"><span
+                    class="glyphicon glyphicon-user"></span> here</a>.</p>
+        </div>
+    </div>
+    <div class="row" id="topics">
+        <div class="col-sm-4">
+            <h3>Our crew</h3>
+            <p>Dum spiro spero dum spiro spero, dum spiro spero, dum spiro spero, dum spiro spero, dum spiro spero, dum
+                spiro spero, dum spiro spero, dum spiro spero, dum spiro spero, dum spiro spero, dum spiro spero.</p>
+            <p>Dum spiro spero dum spiro spero, dum spiro spero, dum spiro spero, dum spiro spero, dum spiro spero, dum
+                spiro spero, dum spiro spero, dum spiro spero, dum spiro spero, dum spiro spero, dum spiro spero.</p>
+        </div>
+        <div class="col-sm-4">
+            <h3>One with the mashine</h3>
+            <p>Dum spiro spero dum spiro spero, dum spiro spero, dum spiro spero, dum spiro spero, dum spiro spero, dum
+                spiro spero, dum spiro spero, dum spiro spero, dum spiro spero, dum spiro spero, dum spiro spero.</p>
+            <p>Dum spiro spero dum spiro spero, dum spiro spero, dum spiro spero, dum spiro spero, dum spiro spero, dum
+                spiro spero, dum spiro spero, dum spiro spero, dum spiro spero, dum spiro spero, dum spiro spero.</p>
+        </div>
+        <div class="col-sm-4">
+            <h3>Services</h3>
+            <p>Dum spiro spero dum spiro spero, dum spiro spero, dum spiro spero, dum spiro spero, dum spiro spero, dum
+                spiro spero, dum spiro spero, dum spiro spero, dum spiro spero, dum spiro spero, dum spiro spero.</p>
+            <p>Dum spiro spero dum spiro spero, dum spiro spero, dum spiro spero, dum spiro spero, dum spiro spero, dum
+                spiro spero, dum spiro spero, dum spiro spero, dum spiro spero, dum spiro spero, dum spiro spero.</p>
+        </div>
+    </div>
+    <div id="footer"></div>
+</div>
+</body>
+
+</html>
