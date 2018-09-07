@@ -17,5 +17,7 @@
 <img src="screen-shots/view-4.png" alt="View 4">
 <p>View 5</p>
 <img src="screen-shots/view-5.png" alt="View 5">
+<p>View 6</p>
+<img src="screen-shots/view-6.png" alt="View 6">
 
 
