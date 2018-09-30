@@ -6,7 +6,7 @@
   <li>Has a simple MySQL testing database.</li>
   <li>The <b>scripts</b> (not including the JavaScript file) folder must be placed in the xampp > htdocs folder.</li>
 </ul>
-<h3>Project snapshots. 📺</h3>
+<h3>Project snapshots. 💻</h3>
 <p>View 1</p>
 <img src="screen-shots/view-1.png" alt="View 1">
 <p>View 2</p>
