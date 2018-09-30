@@ -1,12 +1,12 @@
-# it255-web-assignment-eight
-<h3>A third year university web project:</h3>
-<ul style="list-style-type:circle">
-  <li>Made for the <i>IT255 Web Services I</i> course</li>
-  <li>This is the eighth assignment of the course</li>
-  <li>Has a simple MySQL testing database</li>
-  <li>The <b>scripts</b> (not including the JavaScript file) folder must be placed in the xampp > htdocs folder</li>
+# it255-web-assignment-eight 🚦
+<h3>A third year university web project. 🚥</h3>
+<ul>
+  <li>Made for the <b>IT255 Web Services I</b> course. 🍏</li>
+  <li>This is the eighth assignment of the course. </li>
+  <li>Has a simple MySQL testing database.</li>
+  <li>The <b>scripts</b> (not including the JavaScript file) folder must be placed in the xampp > htdocs folder.</li>
 </ul>
-<h3>Project snapshots:</h3>
+<h3>Project snapshots. 📺</h3>
 <p>View 1</p>
 <img src="screen-shots/view-1.png" alt="View 1">
 <p>View 2</p>
