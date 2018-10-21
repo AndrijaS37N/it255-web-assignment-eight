@@ -5,6 +5,7 @@
   <li>This is the eighth assignment of the course. </li>
   <li>Has a simple MySQL testing database.</li>
   <li>The <b>scripts</b> (not including the JavaScript file) folder must be placed in the XAMPP > htdocs folder.</li>
+  <li>Services are not finished.</li>
 </ul>
 
 #### Project snapshots: 
