@@ -1,4 +1,4 @@
-# it255-web-assignment-eight 🚦
+# it255-web-assignment-eight
 <h3>A third year university web project.</h3>
 <ul>
   <li>Made for the <b>IT255 Web Services I</b> course. 🍏</li>
