@@ -40,7 +40,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`id`, `fullname`, `email`, `password`, `dob`, `country`) VALUES
-(13, 'Charlie Chaplinuru', 'charlie.chap@gmail.com', '4ff2bae8d2cc8a71ae25c68c0bc51d3c', '1980-04-09', 'Japan');
+(13, 'Charlie Chapchap', 'charlie.chap@gmail.com', '4ff2bae8d2cc8a71ae25c68c0bc51d3c', '1980-04-09', 'Japan');
 
 --
 -- Indexes for dumped tables
