@@ -11,16 +11,16 @@
 
 #### Project snapshots: 
 <h6>View 1</h6>
-<img src="screen-capture/view-1.png" alt="View 1">
+<img src="screen-captures/view-1.png" alt="View 1">
 <h6>View 2</h6>
-<img src="screen-capture/view-2.png" alt="View 2">
+<img src="screen-captures/view-2.png" alt="View 2">
 <h6>View 3</h6>
-<img src="screen-capture/view-3.png" alt="View 3">
+<img src="screen-captures/view-3.png" alt="View 3">
 <h6>View 4</h6>
-<img src="screen-capture/view-4.png" alt="View 4">
+<img src="screen-captures/view-4.png" alt="View 4">
 <h6>View 5</h6>
-<img src="screen-capture/view-5.png" alt="View 5">
+<img src="screen-captures/view-5.png" alt="View 5">
 <h6>View 6</h6>
-<img src="screen-capture/view-6.png" height="700" alt="View 6">
+<img src="screen-captures/view-6.png" height="700" alt="View 6">
 
 

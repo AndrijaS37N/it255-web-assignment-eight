@@ -3,6 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="cc4848f8-9949-4d82-b832-8fe836b8bc48" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screen-capture/view-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/screen-captures/view-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screen-capture/view-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/screen-captures/view-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screen-capture/view-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/screen-captures/view-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screen-capture/view-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/screen-captures/view-4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screen-capture/view-5.png" beforeDir="false" afterPath="$PROJECT_DIR$/screen-captures/view-5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screen-capture/view-6.png" beforeDir="false" afterPath="$PROJECT_DIR$/screen-captures/view-6.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,7 +24,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="345">
-                <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+                <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
               </first_editor>
               <second_editor />
             </state>
@@ -80,7 +86,7 @@
             <path>
               <item name="it255-web-assignment-eight" type="b2602c69:ProjectViewProjectNode" />
               <item name="it255-web-assignment-eight" type="462c0819:PsiDirectoryNode" />
-              <item name="screen-capture" type="462c0819:PsiDirectoryNode" />
+              <item name="screen-captures" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -164,12 +170,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550244024256</updated>
-      <workItem from="1550244028661" duration="2629000" />
+      <workItem from="1550244028661" duration="2692000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2629000" />
+    <option name="totallyTimeSpent" value="2692000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
@@ -272,7 +278,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/screen-capture/view-6.png">
+    <entry file="file://$PROJECT_DIR$/screen-captures/view-6.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/IT255-DZ08-Andrija-Djuric-2687/index.html">
@@ -286,7 +292,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="345">
-            <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+            <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
           </first_editor>
           <second_editor />
         </state>
