@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc4848f8-9949-4d82-b832-8fe836b8bc48" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screen-capture/view-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/screen-captures/view-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screen-capture/view-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/screen-captures/view-2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screen-capture/view-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/screen-captures/view-3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screen-capture/view-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/screen-captures/view-4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screen-capture/view-5.png" beforeDir="false" afterPath="$PROJECT_DIR$/screen-captures/view-5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screen-capture/view-6.png" beforeDir="false" afterPath="$PROJECT_DIR$/screen-captures/view-6.png" afterDir="false" />
-    </list>
+    <list default="true" id="cc4848f8-9949-4d82-b832-8fe836b8bc48" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,20 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="345">
-                <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -170,16 +149,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550244024256</updated>
-      <workItem from="1550244028661" duration="2692000" />
+      <workItem from="1550244028661" duration="2787000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2692000" />
+    <option name="totallyTimeSpent" value="2787000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
