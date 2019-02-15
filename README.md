@@ -21,6 +21,6 @@
 <h6>View 5</h6>
 <img src="screen-capture/view-5.png" alt="View 5">
 <h6>View 6</h6>
-<img src="screen-capture/view-6.png" alt="View 6">
+<img src="screen-capture/view-6.png" style="height: 100;" alt="View 6">
 
 
