@@ -18,7 +18,7 @@
 <img src="screenshots/view-3.png" alt="View 3">
 <h6>Register Success View &#x2198;</h6>
 <img src="screenshots/view-4.png" alt="View 4">
-<h6>Sign In Success View&#x2198;</h6>
+<h6>Sign In Success View &#x2198;</h6>
 <img src="screenshots/view-5.png" alt="View 5">
 <h6>Responsive Login Component View &#x2198;</h6>
 <img src="screenshots/view-6.png" height="700" alt="View 6">
